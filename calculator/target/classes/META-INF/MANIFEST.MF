@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: calculator
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Sunny
+Implementation-Vendor-Id: com.example.calculator
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/calculator/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
